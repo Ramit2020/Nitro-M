@@ -14,23 +14,22 @@ clear
 echo " "
 echo " "
 echo -e "$red
-                         ███╗   ███╗      ██╗    ██╗██╗███████╗
-                         ████╗ ████║      ██║    ██║██║╚══███╔╝
-                         ██╔████╔██║█████╗██║ █╗ ██║██║  ███╔╝ 
-                         ██║╚██╔╝██║╚════╝██║███╗██║██║ ███╔╝  
-                         ██║ ╚═╝ ██║      ╚███╔███╔╝██║███████╗
-                         ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
-                                                                v 1.1$rset"
+                        ███╗░░██╗██╗████████╗██████╗░░█████╗░░░░░░░███╗░░░███╗
+                        ████╗░██║██║╚══██╔══╝██╔══██╗██╔══██╗░░░░░░████╗░████║
+                        ██╔██╗██║██║░░░██║░░░██████╔╝██║░░██║█████╗██╔████╔██║
+                        ██║╚████║██║░░░██║░░░██╔══██╗██║░░██║╚════╝██║╚██╔╝██║
+                        ██║░╚███║██║░░░██║░░░██║░░██║╚█████╔╝░░░░░░██║░╚═╝░██║
+                        ╚═╝░░╚══╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░░░░░░░╚═╝░░░░░╚═╝                                                    v 2.0$rset"
 echo " "                                                          
-echo -e "$red                                   ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                              ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                                   ▶ Coded by$grn Neel$red ◀$rset"
+echo -e "$red                              ⫸$ylo youtube.com/NitroTechGaya$red ⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                         >>>  [ click ENTER to continue ] <<<$rset"
 read nitrom
 echo " "
 echo " "
-echo -e "$cyan                   》m-wiz is a official tool made for metasploit《$rset"
+echo -e "$cyan                   》Nitro-M is a official tool made for metasploit《$rset"
 echo " "
 echo -e "$red                           [NOTE:- NEED INTERNET CONNECTION]$rset"
 echo " "
@@ -79,7 +78,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                       click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                       click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -109,7 +108,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                      click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                      click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -138,7 +137,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -167,7 +166,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -196,7 +195,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -225,7 +224,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -254,7 +253,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -283,7 +282,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
@@ -312,7 +311,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                        click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
