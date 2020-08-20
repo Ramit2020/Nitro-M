@@ -94,7 +94,7 @@ __Exit__ :
 <img src="https://user-images.githubusercontent.com/49580304/60384482-eab74b00-9a9b-11e9-8371-3e7c9a17aae1.jpg" width="80%"></img>
 
 ## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-franework tool]
+[![Nitro-M metasploit-franework tool]
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
