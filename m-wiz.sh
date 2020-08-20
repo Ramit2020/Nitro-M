@@ -1,5 +1,5 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
-#M-WIZ TOOL FOR ALL METASPLOIT THINGS
+#SCRIPT BY Neel DONT TRY TO COPY OR MODIFY 
+#Nitro-M TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
 red='\033[1;31m'
@@ -64,15 +64,15 @@ echo " "
 echo -e "$grn                               Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/m-wiz/min
+cd $HOME/Nitro-M/min
 echo " "
 echo -e "$ylo         To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                           Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash metain.sh
 echo " "
@@ -83,8 +83,8 @@ echo -e "$cyan                       click$grn ENTER$cyan to go back into m-wiz 
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 
 2)echo " "
 echo " "
@@ -94,15 +94,15 @@ echo " "
 echo -e "$grn                                Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/m-wiz/mrp
+cd $HOME/Nitro-M/mrp
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                          Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash metarpir.sh
 echo " "
@@ -113,8 +113,8 @@ echo -e "$cyan                      click$grn ENTER$cyan to go back into m-wiz m
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 3)echo " "
 echo " "
 echo " "
@@ -123,15 +123,15 @@ echo " "
 echo -e "$grn                                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read mon
-cd $HOME/m-wiz/mbp
+cd $HOME/Nitro-M/mbp
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                         Are you sure? Press$grn ENTER$red to exit$rset"
 read monn
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash backup.sh
 echo " "
@@ -142,8 +142,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 4)echo " "
 echo " "
 echo " "
@@ -152,15 +152,15 @@ echo " "
 echo -e "$grn                                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read gzil
-cd $HOME/m-wiz/mrs
+cd $HOME/Nitro-M/mrs
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                          Are you sure? Press$grn ENTER$red to exit$rset"
 read gzill
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash restore.sh
 echo " "
@@ -171,8 +171,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 5)echo " "
 echo " "
 echo " "
@@ -181,15 +181,15 @@ echo " "
 echo -e "$grn                                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 read kong
-cd $HOME/m-wiz/mrp
+cd $HOME/Nitro-M/mrp
 echo " "
 echo -e "$ylo          To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                        Are you sure? Press$grn ENTER$red to exit$rset"
 read kongg
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash olddelete.sh
 echo " "
@@ -200,8 +200,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 6)echo " "
 echo " "
 echo " "
@@ -210,15 +210,15 @@ echo " "
 echo -e "$grn                                   Press$ylo ENTER$grn to continue$rset"
 echo " "
 read gidor
-cd $HOME/m-wiz/del
+cd $HOME/Nitro-M/del
 echo " "
 echo -e "$ylo            To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                        Are you sure? Press$grn ENTER$red to exit$rset"
 read gidora
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash delete.sh
 echo " "
@@ -229,8 +229,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 7)echo " "
 echo " "
 echo " "
@@ -239,15 +239,15 @@ echo " "
 echo -e "$grn                                   Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nit
-cd $HOME/m-wiz/upd
+cd $HOME/Nitro-M/upd
 echo " "
 echo -e "$ylo            To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                       Are you sure? Press$grn ENTER$red to exit$rset"
 read nitt
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash update.sh
 echo " "
@@ -258,8 +258,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 8)echo " "
 echo " "
 echo " "
@@ -268,15 +268,15 @@ echo " "
 echo -e "$grn                                   Press$ylo ENTER$grn to continue$rset"
 echo " "
 read sim
-cd $HOME/m-wiz/abt
+cd $HOME/Nitro-M/abt
 echo " "
 echo -e "$ylo            To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                      Are you sure? Press$grn ENTER$red to exit$rset"
 read simm
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash about.sh
 echo " "
@@ -287,8 +287,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 9)echo " "
 echo " "
 echo " "
@@ -297,15 +297,15 @@ echo " "
 echo -e "$grn                               Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitroz
-cd $HOME/m-wiz/rbt
+cd $HOME/Nitro-M/rbt
 echo " "
 echo -e "$ylo            To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                      Are you sure? Press$grn ENTER$red to exit$rset"
 read nitrooz
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash reboot.sh
 echo " "
@@ -316,8 +316,8 @@ echo -e "$cyan                        click$grn ENTER$cyan to go back into m-wiz
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 10)
 sleep 2.0
 clear
