@@ -1,9 +1,9 @@
-<h1 align="center">m-wiz v1.2</h1>
+<h1 align="center">Nitro-M v2.0</h1>
 <p align="center">
       A new automated script for metasploit users
 </p>
 
-## 🔍 ***About m-wiz***:
+## 🔍 ***About Nitro-M***:
 
 m-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -17,7 +17,7 @@ m-wiz is a bash based script which is officially made for metasploit-framework u
 ![photo_2019-06-29_15-32-01](https://user-images.githubusercontent.com/49580304/60383963-159ea080-9a96-11e9-92e5-7242247482fa.jpg)
 
 
-### 📌 ***m-wiz is available for***:
+### 📌 ***Nitro-M is available for***:
 
 * Termux
 
@@ -41,19 +41,19 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/m-wiz
+$ git clone https://github.com/Ramit2020/Nitro-M.git
 ```
 ```
 $ ls
 ```
 ```
-$ cd m-wiz
+$ cd Nitro-M
 ```
 ```
 $ ls
 ```
 ```
-$ bash m-wiz.sh
+$ bash Nitro-M.sh
 ```
 
 * Now you need internet connection to continue further process...
@@ -83,10 +83,10 @@ __Metasploit delete__ :
 - From this tool you can delete your old metasploit-framework from your termux application easyli.
 
 __Delete script__ :
-- From this option you can delete m-wiz tool from your termux in one click.
+- From this option you can delete Nitro-M tool from your termux in one click.
 
 __Update script__ :
-- From this option you can update m-wiz tool if updates are available for that.
+- From this option you can update Nitro-M tool if updates are available for that.
 
 __About__ :
 - From this option you can read about author.
@@ -95,41 +95,36 @@ __Reboot__ :
 - From this option you can restart script if you are facing issues.
 
 __Exit__ :
-- From this option you can exit from m-wiz tool 
+- From this option you can exit from Nitro-M tool 
 
 ## 📌 ***Screenshot*** :
 <img src="https://user-images.githubusercontent.com/49580304/60384459-80060f80-9a9b-11e9-807e-ba9f51d2a48f.jpg" width="80%"></img>
 <img src="https://user-images.githubusercontent.com/49580304/60384482-eab74b00-9a9b-11e9-8371-3e7c9a17aae1.jpg" width="80%"></img>
 
 ## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
+[![m-wiz metasploit-franework tool]
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
-
-### Chekout our webite:
-https://www.noob-hackers.com
+Nitro Tech Gaya
 
 ## 👥 ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
 
 ### Telegram channel:
-https://t.me/noobhack
+https://t.me/NeelTech
 
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://www.facebook.com/profile.php?id=100006890628787 
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+https://www.instagram.com/NeelArya
 
 ### Pinterest:
 https://in.pinterest.com/noobhackers
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://github.com/Ramit2020/Nitro-M.git
 
 ### 📢 Warning
 
