@@ -1,5 +1,5 @@
 #!/termux/data/data/bin/bash
-# script by nitro from (noob hackers) youtube channel
+# script by Neel from (Nitro Tech Gaya) youtube channel
 apt-get update -y
 apt-get upgrade -y
 pkg install python2 -y
@@ -37,7 +37,7 @@ echo "          ############# Completed ################" |lolcat
 echo " "
 echo "          If You Are Connected To Internet Then 
         you have downloaded metasploit successfully. 
-          Subscribe us on youtube (Noob Hackers)"
+          Subscribe us on youtube (Nitro Tech Gaya)"
 echo " "
 echo "                 (x ...Hack The Planet... x) "
 echo " "
