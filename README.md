@@ -5,16 +5,8 @@
 
 ## 🔍 ***About Nitro-M***:
 
-m-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
+m-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/m-wiz)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/m-wiz)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/m-wiz)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#m-wiz)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-![photo_2019-06-29_15-32-01](https://user-images.githubusercontent.com/49580304/60383963-159ea080-9a96-11e9-92e5-7242247482fa.jpg)
 
 
 ### 📌 ***Nitro-M is available for***:
