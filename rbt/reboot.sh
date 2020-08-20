@@ -2,7 +2,7 @@
 echo " "
 echo " "
 cd $HOME
-cd m-wiz
-bash m-wiz.sh
+cd Nitro-M
+bash Nitro-M.sh
 echo " "
 echo " "
