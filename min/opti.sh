@@ -26,27 +26,27 @@ echo " "
 echo -e "$grn                   Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/m-wiz/min
+cd $HOME/Nitro-M/min
 echo " "
 echo -e "$ylo  To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red               Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash metalow.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan      click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan      click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 
 2)echo " "
 echo " "
@@ -56,26 +56,26 @@ echo " "
 echo -e "$grn              Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/m-wiz/min
+cd $HOME/Nitro-M/min
 echo " "
 echo -e "$ylo  To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red        Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/Nitro-M
+bash Nitro-M.sh
 else
 bash metanew.sh                                                                                                                  bash metarpir.sh
 echo " "                                                                                                              echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan     click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan     click$grn ENTER$cyan to go back into Nitro-M menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/Nitro-M
+bash Nitro-M.sh ;;
 10)
 sleep 2.0
 clear
