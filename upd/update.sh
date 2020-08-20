@@ -32,18 +32,18 @@ sleep 2.0
 clear
 echo " "
 echo " "
-echo -e "$grn                updating the m-wiz please wait$rset"
+echo -e "$grn                updating the Nitro-M please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf m-wiz
-git clone https://github.com/noob-hackers/m-wiz
+rm -rf Nitro-M
+git clone https://github.com/Ramit2020/Nitro-M
 clear
 echo " "
-echo -e "$grn               m-wiz has been updated check it now...$rset"
+echo -e "$grn               Nitro-M has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
-cd m-wiz
-bash m-wiz.sh
+cd Nitro-M
+bash Nitro-M.sh
 clear
 sleep 1.0
